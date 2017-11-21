@@ -1,4 +1,6 @@
 # scenes-service
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/automaid/generic-scenes-service.svg)](https://greenkeeper.io/)
 Allows to configure scenes
 
 # Installation
